@@ -32,7 +32,7 @@ pip install -r requirements.txt
 This will open up a new Chainlink project. Or, you can clone from source:
 
 ```bash
-git clone https://github.com/mattsegura/smartcontractLotto.git
+git clone https://github.com/zahracolt/lottery-smart-contract.git
 cd chainlink-mix 
 ```
 
